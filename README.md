@@ -8,8 +8,8 @@
    <li><strong>Skills: </strong><code>Web Development</code>,<code>Software Development</code>;<code>Game Hacking</code>,<code>Reverse engineering</code></li>
 </ul>
 
-# Formations
+# Courses
 
 <ul>
-   <li><strong>Languages:</strong> <code>Hardware advanced</code></li>
+   <li><strong>All:</strong><code>Hardware advanced</code></li>
 </ul>
