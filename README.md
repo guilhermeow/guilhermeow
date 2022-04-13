@@ -1,4 +1,4 @@
-<img align='right' src='https://cdn.discordapp.com/emojis/810934476711919646.png?v=1' width='105'>
+<img align='right' src='https://cdn.discordapp.com/emojis/810934476711919646.png?v=1' width='105' height='80'>
 
 # Knowledge
 
