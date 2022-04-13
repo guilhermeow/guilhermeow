@@ -4,7 +4,7 @@
 # Knowledge
 
 <ul>
-   <li><strong>Basic:</strong> <code>Javascript</code>,<code>PHP</code>,<code>Python</code>,<code>C/C++</code>,<code>HTML5</code>,<code>CSS</code>;</li>
+   <li><strong>Basic:</strong> <code>Javascript</code>,<code>Assembly</code>,<code>PHP</code>,<code>Python</code>,<code>C/C++</code>,<code>HTML5</code>,<code>CSS</code>;</li>
    <li><strong>Skills: </strong><code>Web Development</code>,<code>Software Development</code>;<code>Game Hacking</code>,<code>Reverse engineering</code></li>
 </ul>
 
