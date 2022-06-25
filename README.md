@@ -4,5 +4,5 @@
 
 <ul>
    <li><strong>Skills:</strong> <code>Hardware</code>,<code>Back-End</code>,<code>Front-End</code> </li>
-   <li><strong>Cursing:</strong> <code>systems analysis and development</code> </li>
+   <li><strong>Cursing:</strong> <code>Systems analysis and development</code> </li>
 </ul>
