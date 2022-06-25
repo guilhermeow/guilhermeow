@@ -3,6 +3,6 @@
 # Certificates
 
 <ul>
-   <li><strong>All:</strong> <code>Hardware advanced</code>,<code>Javascript</code>,<code>C++</code> </li>
+   <li><strong>Skills:</strong> <code>Hardware</code>,<code>Back-End</code>,<code>Front-End</code> </li>
    <li><strong>Cursing:</strong> <code>systems analysis and development</code> </li>
 </ul>
