@@ -4,6 +4,5 @@
 
 <ul>
    <li><strong>I'm a </strong><code>full-stack developer</code></li>
-   <li><strong>Skills:</strong> <code>Hardware</code>,<code>Back-End</code>,<code>Front-End</code> </li>
    <li><strong>Cursing:</strong> <code>Systems analysis and Development</code> </li>
 </ul>
