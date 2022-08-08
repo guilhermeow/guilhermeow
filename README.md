@@ -3,6 +3,7 @@
 # Profile
 
 <ul>
+   <li><strong>Hello, I'm Guilherme, </strong><code>I'm a full stack developer</code></li>
    <li><strong>Skills:</strong> <code>Hardware</code>,<code>Back-End</code>,<code>Front-End</code> </li>
    <li><strong>Cursing:</strong> <code>Systems analysis and Development</code> </li>
 </ul>
