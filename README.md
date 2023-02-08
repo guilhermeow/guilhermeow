@@ -6,6 +6,7 @@
    <li><strong>I'm a </strong><code>full-stack developer</code></li>
 </ul>
 
+Bests Skills:
 ```py
-Bests Skills: Python, Javascript, Php, C++
+Python, Javascript, Php, C++
 ```
