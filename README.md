@@ -7,5 +7,5 @@
 </ul>
 
 ```py
-Bests Skills = Python, Javascript, Php, C++
+Bests Skills = Python, Javascript, PHP, C++
 ```
